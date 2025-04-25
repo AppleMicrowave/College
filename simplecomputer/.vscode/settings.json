@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "sc_variables.h": "c",
+        "mySimpleComputer.h": "c",
+        "stdlib.h": "c",
+        "mybigchars.h": "c",
+        "unistd.h": "c",
+        "myterm.h": "c",
+        "stdint.h": "c",
+        "myreadkey.h": "c",
+        "poll.h": "c",
+        "assert.h": "c",
+        "ctype.h": "c",
+        "rk_structs.h": "c",
+        "math.h": "c",
+        "stdbool.h": "c",
+        "variables.h": "c",
+        "type_traits": "c",
+        "sb_variables.h": "c",
+        "console.h": "c",
+        "limits.h": "c"
+    }
+}
